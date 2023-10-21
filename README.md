@@ -1,5 +1,5 @@
 # DiscordBot
-DiscordBot
+Command : 
 ```
 npm install
 ```
