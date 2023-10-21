@@ -1,2 +1,5 @@
 # DiscordBot
 DiscordBot
+```
+npm install
+```
